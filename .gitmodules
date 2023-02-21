@@ -1,0 +1,3 @@
+[submodule "kasa"]
+	path = kasa
+	url = https://github.com/mathurinchung/kasa.git
